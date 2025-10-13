@@ -86,7 +86,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Title Section ---
-st.markdown("<div class='main-title'>📊 Review Rating Predictor</div>", unsafe_allow_html=True)
+st.markdown("<div class='main-title'>📊⭐ Review Rating Predictor</div>", unsafe_allow_html=True)
 st.markdown("<div class='sub-title'>Compare predictions from Balanced vs. Imbalanced Models</div>", unsafe_allow_html=True)
 
 # --- Input Section ---
